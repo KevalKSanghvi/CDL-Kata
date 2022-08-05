@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.util.Scanner;
 
 /**
- * The type Demo application.
+ * The type Supermarket application.
  */
 @SpringBootApplication
 //@ComponentScan({"cdl.kata.model","cdl.kata.service"})
